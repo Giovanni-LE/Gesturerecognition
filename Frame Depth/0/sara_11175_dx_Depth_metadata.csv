@@ -1,0 +1,15 @@
+Frame Info: 
+Type,Depth
+Format,Z16
+Frame Number,1091
+Timestamp (ms),38448.87
+Resolution x,640
+Resolution y,480
+Bytes per pixel,2
+
+Intrinsic:,
+Fx,474.268433
+Fy,474.268433
+PPx,320.014832
+PPy,245.619308
+Distorsion,Inverse Brown Conrady
